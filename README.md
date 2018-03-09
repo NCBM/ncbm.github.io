@@ -1,5 +1,5 @@
 # MyPage
 
-I am trying to make a page for myself.
+- I am trying to make a page for myself.
 
-This is a try.
+- This is a try.
