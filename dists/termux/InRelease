@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: termux
+Version: 1
+Architectures: all
+Description: termux repository
+Suite: termux
+Date: Thu, 20 Feb 2020 05:17:45 UTC
+MD5Sum:
+ 9b2716abaef2b3aba67fa770796e69f9 3036 extras/binary-all/Packages
+ 707a4a52c68af3e1e1a777f1d0c5c1f4 1184 extras/binary-all/Packages.xz
+ 6a264e903187fed4f705c24d91414b55 5917 extras/Contents-all
+ 607456967389de11819c045db972dd67 324 extras/Contents-all.xz
+SHA1:
+ 10c65a9b7fe7955255ed129f360e69e6da5e843b 3036 extras/binary-all/Packages
+ b38438d8e924cb5f7074ad96a66ee14dcef3ec49 1184 extras/binary-all/Packages.xz
+ 471b1ead847f0c55d021a18964240369a8ebaf27 5917 extras/Contents-all
+ d9f20b09b6f6fe4fdb3875fc5fda78e80ba52bc5 324 extras/Contents-all.xz
+SHA256:
+ e651d72730855020852f59c1b6ce340410e00280a2df7378da2d81deafa5780a 3036 extras/binary-all/Packages
+ d39c13874708a5cba313bda48a56309ef599a3362a6e9f1f2d6dd02b5f73fc73 1184 extras/binary-all/Packages.xz
+ 9fd2d1253095afb28f118077e2e0ae60dd7f49c29bbf5326ff8c8a39d4572a8d 5917 extras/Contents-all
+ f5b77864462ab01c82f42f3b413d96102b155d1b63a5a418358542c5f90d871b 324 extras/Contents-all.xz
+SHA512:
+ 88391e8a4a507b850193c3984c6327c250d4f4271829ad89fe0857248c22c71690e692518a08591a174037200cd3499857e9f262344c4ae1e26b6ca8e44ac7b1 3036 extras/binary-all/Packages
+ 8b203b1a6432e52a32ac16714a553cc112ff989bb1f122aa7b36e19a11e828ad32a6df4150e1c1b4424fd5137ee2fbd28842b21dbc4d901c9e7aee23d80e3e67 1184 extras/binary-all/Packages.xz
+ 27aeb2f3c3f2e27927d14de176b53311450b0624f2fd0b37d084bba108928e048f5a82bae175e0f08247ada9a474d59d40974f3079d114dad1001dfd1b70ea8c 5917 extras/Contents-all
+ 8a20fec239497bffa26c64123e9f1bd2f4dee9a74d4819dd2711ef4cba06a84e9adc031fbb97dcec6f83930894649d962e17d3dc6e13a98687fed6e88a095eb8 324 extras/Contents-all.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQJFBAEBCAAvFiEEkbapIPMLMulssY8SYvkVfkdrFsQFAl5aRpcRHHRla2lucmVw
+b0B0ZWsuaW4ACgkQYvkVfkdrFsTsig/6AhZ1uj0CdbwmCqrBIAs+cp8BJirRvtE3
+M/lHJi5quKqaUBJPnsNDJYcpkpZ9QqYXzLNuHlZf8cGT79mZBV8lRWvlsVZft4eC
+UKFQAn/m8ZlBfWV9gmdHdplW4+QrbfcbAzm6MIwiSJTHPF+4SenF5xzLvg4X6ITG
+fHDufhX1aasCSTpvWrxvcSyaHehAPxxpTN5Txxx0SvafiJyWPKpoz93gFEEqp2SN
+W+77TxiR1VFasuE39h8ZbnGR9khhpaHkSlmSjAW++NpyalAbD8m5JW+RHwdP41jI
+Kl1qOTFQrBPjFvn1bwiiEKYhcLbu9SU7TKwwe/ltRdowEFuaJ3iFp4Xjni+0onup
+8wCFUqBsirXXSvoJGIb0rBY8W5ivYH4W0v8uBBdcBxfXRELl3DmrUBDgyNmlkqXx
+RKaSNCAzryB+nAZPhRGjDszOS57fequMKl/YMDoYMzrgDbM40ql7GE87UoLXbkDL
+V1Sc2bO0HFVqEoRJ0IjULQc97X+1BjBQFx56K6zvuPGpWYyPLgkKYGAshCcaXxTI
+zloOh0a+ZUxuh3eiQF4g9/j/tvprCPdfwlb5mTXefQGI97xXvy3U9s/WUilgjA08
+hScZPSznZ+wX7VD1Hdxc6STBVzZzh8jn/YWm+U+Oy6xHbRxFg/NOhIjcJH5EA+ZH
+f8yc8alppv4=
+=VRXL
+-----END PGP SIGNATURE-----
