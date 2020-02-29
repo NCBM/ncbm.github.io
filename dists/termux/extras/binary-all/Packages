@@ -1,0 +1,68 @@
+Package: xom-fastforward
+Version: 1.0-2020.2.11
+Architecture: all
+Maintainer: pyg2007, WorldMoZara
+Depends: python, git, sed, curl, grep, clang, make
+Description: A fast-forward version of why-and-xom
+Filename: dists/termux/extras/binary-all/xom-fastforward_1.0-2020.2.11_all.deb
+Size: 7616
+MD5Sum: d4ac8ab06fd11867ff0bc25e2d1dc6e5
+SHA1: dc440bac6f52b0d41e6ee0dc27407df214b88e42
+SHA256: ffe2f4188af2241d17bc993adc380778245916655ced0f06faf359b2a1538c13
+SHA512: 0fd5763f9496f59bcd285f219b41b4df7e11c15cae7493f4f5898d71f0701568b688e9eee5441b608e20bfc5b8f387be82589063ebf20ed88e1bced0240ba8b1
+
+Package: xom-fastforward
+Version: 1.0-2020.2.12
+Architecture: all
+Installed-Size: 57KB 
+Maintainer: pyg2007, WorldMoZara
+Depends: python, git, sed, curl, grep, clang, make
+Description: A fast-forward version of why-and-xom
+Filename: dists/termux/extras/binary-all/xom-fastforward_1.0-2020.2.12_all.deb
+Size: 7632
+MD5Sum: 61627755819b1773bc85215bc5b62fa0
+SHA1: 35d81e92b9b35e26aa3aae4033f180100339ebf8
+SHA256: d860cf741945849ee27e47b5bb7f40c494feab3c98017a9b71d547b0233d14fa
+SHA512: 60650e8b197ba5cd2c04e7c4884d467d0c789a664d00d0eb1278cfe6c11d4e323179b825abf3d0781aaa8db0c31576e3e8443498a6dca855e97c71e237b34aa8
+
+Package: xom-fastforward
+Version: 1.0-2020.2.19
+Architecture: all
+Installed-Size: 116 KB
+Maintainer: pyg2007, WorldMoZara
+Depends: python, git, sed, curl, grep, clang, make
+Description: A fast-forward version of why-and-xom
+Filename: dists/termux/extras/binary-all/xom-fastforward_1.0-2020.2.19_all.deb
+Size: 8128
+MD5Sum: 0c26174436861de2f01a15d14076671f
+SHA1: f029433173ecb369a77e03b2364211d9d298a785
+SHA256: a342f211c490b200d24ffde67d01eadbd125f41014ee416b0615e759c2cab85c
+SHA512: f924a62430d3e3a8e5fac447548af4baa000fb95de9df4c9cdc7c763a31dcf00d475fe667a627f2fad7132d3f62f3c76854976377c41302af03afbde84441926
+
+Package: xom-fastforward
+Version: 1.0-2020.2.20
+Architecture: all
+Installed-Size: 116 KB
+Maintainer: pyg2007@pyg2007, WorldMoZara@worldmozara
+Depends: python, git, sed, curl, grep, clang, make
+Description: A fast-forward version of why-and-xom
+Filename: dists/termux/extras/binary-all/xom-fastforward_1.0-2020.2.20_all.deb
+Size: 8884
+MD5Sum: bcc1acc44f490752e608f6e5a91a06f4
+SHA1: 9783fd53b0815a5fcb0482a1b62d53c2558c0c25
+SHA256: 0f9bc758f590455077f140941daab44b7bf3747b3736b243cd699f98a34617ec
+SHA512: fe91bc3bc45e8df55c1a21b27e498bf4ba35e10fa68170a9455af90ec6f769e3c9bffcf6967156f090037de33087dc089941ff9660a3ed94d10cb5964ed73939
+
+Package: xom-fastforward
+Version: 1.0-2020.2.9
+Architecture: all
+Maintainer: pyg2007, WorldMoZara
+Depends: python, git, sed, curl, grep, clang, make
+Description: A fast-forward version of why-and-xom
+Filename: dists/termux/extras/binary-all/xom-fastforward_1.0-2020.2.9_all.deb
+Size: 7196
+MD5Sum: 040c4ed085ab9963a2644d630300c4d8
+SHA1: 286220e5930fb93b55d77e925384f4856b37480b
+SHA256: c7978e3d03babd6ee8103d659beb4839e55796155ca9386c42d3265080ee69a7
+SHA512: e2c0c2e7ea4fd087c5658aea4e6e4fc19f95ec7e9c3f34df2e26010c53ffe15bda8aa859586f142400fcc5e17ea65f2b349e8e4f1fcb43badb69a9f07c5fc273
+
