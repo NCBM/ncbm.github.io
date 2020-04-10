@@ -1,0 +1,14 @@
+Package: portaudio
+Maintainer: Tekin-Miz @worldmozara
+Version: 19-20161030-1
+Description: A free, cross-platform, open-source, audio I/O library.
+Architecture: arm
+Installed-Size: 656 KB
+Homepage: http://www.portaudio.com/
+Filename: dists/termux/extras/binary-arm/portaudio_19-20161030-1_arm.deb
+Size: 129336
+MD5Sum: 7e2c53ad229000c870d06246b57a3042
+SHA1: a908fe98b3cdf944f569feb006fcca22b73528ea
+SHA256: 2ff661093bee0183c7abf25d683676061a29af68244d3e2b0b0607e0105c0856
+SHA512: af9e78a4289ba2dac57ff64f547a8e40f74021c2d9437dfe0558bdbdc82760a7224cc628552f5ca7aa1734a1c9ce6b78d2056a016115bdf63f013e3a498b3e91
+
