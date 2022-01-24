@@ -1,7 +1,0 @@
-data/data/com.termux/files/usr/include/portaudio.h                               portaudio
-data/data/com.termux/files/usr/lib/libportaudio.a                                portaudio
-data/data/com.termux/files/usr/lib/libportaudio.la                               portaudio
-data/data/com.termux/files/usr/lib/libportaudio.so.2.0.0                         portaudio
-data/data/com.termux/files/usr/lib/pkgconfig/portaudio-2.0.pc                    portaudio
-data/data/com.termux/files/usr/lib/libportaudio.so                               portaudio
-data/data/com.termux/files/usr/lib/libportaudio.so.2                             portaudio
